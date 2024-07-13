@@ -16,7 +16,7 @@ Pull Request. -->
 ## Updates
 
 - [ ] the changed license has been created in a new folder
-- [ ] the change intention has beed recorded in the readme
+- [ ] the change intention has been recorded in the readme
 
 ## New License
 
